@@ -28,3 +28,19 @@ $ git status
 On branch hello
 nothing to commit, working tree clean
 
+
+! about vim 
+! i 进入编辑模式
+！esc 进入普通模式
+！:wq enter save the file
+git init 
+git status 
+git add
+git commit
+git restore
+git diff
+git checkout
+git branch
+git merge
+git stash
+
